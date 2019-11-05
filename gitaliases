@@ -1,0 +1,4 @@
+	l = log --all --graph --oneline --decorate -7
+	s = status
+	b = branch -a
+	c = commit -am
